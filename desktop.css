@@ -1,3 +1,6 @@
+.header {
+    padding: 44px 77px;
+}
 .content {
     display: flex;
     align-items: center;
